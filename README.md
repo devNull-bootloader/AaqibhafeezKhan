@@ -1,23 +1,17 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:A855F7,100:00D4FF&height=240&section=header&text=Urvish%20L.&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Developer%20%7C%20Student%20Coder%20%7C%20Problem%20Solver&descSize=18&descAlignY=60&animation=fadeIn&stroke=A855F7&strokeWidth=1" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A5ACD,50:A855F7,100:34D399&height=240&section=header&text=Urvish%20L.&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Student%20%7C%20Python%20Developer%20%7C%20Math%20%26%20Physics%20Enthusiast&descSize=18&descAlignY=60&animation=fadeIn&stroke=6A5ACD&strokeWidth=1" width="100%"/>
 
 <a href="https://github.com/devNull-bootloader">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=750&lines=Contributing+To+Open+Source+Projects+%F0%9F%9A%80;Python+%7C+HTML+%7C+Math+Enthusiast+%E2%9A%A1;Orbital+Mechanics+%7C+Computational+Physics+Coder+%F0%9F%8F%97%EF%B8%8F;AI%2FML+Explorer+%F0%9F%A4%96;Open+to+Collaboration+%F0%9F%A4%9D" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=6A5ACD&center=true&vCenter=true&width=750&lines=Developer+%F0%9F%92%BB;Student+%F0%9F%8E%93;Python+Coder+%F0%9F%90%8D;Math+Enthusiast+%F0%9F%A7%AE;Open+Source+Contributor+%F0%9F%8C%90" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<div align="center">
-  <img src="https://evergreen-countdown.vercel.app/api/countdown" alt="Live Countdown" />
-  <br />
-</div>
-<br/>
-
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/devNull-bootloader)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-6C63FF?style=for-the-badge&logo=vercel&logoColor=white)](https://devnull-bootloader.github.io/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-6A5ACD?style=for-the-badge&logo=vercel&logoColor=white)](https://devnull-bootloader.github.io/)
 [![Email](https://img.shields.io/badge/Email-Collaborate-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:urvishlanje25@gmail.com)
-![Profile Views](https://komarev.com/ghpvc/?username=devNull-bootloader&style=for-the-badge&color=357EF2&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=devNull-bootloader&style=for-the-badge&color=34D399&label=PROFILE+VIEWS)
 
 </div>
 
@@ -28,14 +22,12 @@
 ## 🧬 About Me
 
 ```yaml
-name: Aaqibhafeez Khan
-role: Full Stack Developer | Architect of Scalable Solutions
-location: 🌍 Mumbai, India
-philosophy: "Code is poetry when balanced between elegance and efficiency"
-focus: Clean Architecture · TDD · Performance · CI/CD · AI Integration
-superpower: Turning complex problems into elegant, maintainable systems
-available: ✅ Open to Freelance, Remote & Full-Time Opportunities
-fun_fact: I treat every pull request like a published piece of writing ✍️
+Name: Urvish L.
+Role: Student Developer
+Location: 🌍 Germany
+Focus: Mathematics · Physics · Python · Open Source · Robotics
+Talent: Combining computational thinking with mathematical reasoning
+Availability: ✅ Open to Student-Friendly Collaborations & Open Source
 ```
 
 </div>
@@ -46,21 +38,20 @@ fun_fact: I treat every pull request like a published piece of writing ✍️
 
 ## 🚀 Technical Arsenal
 
-### 🎨 Frontend
+### 🐍 Primary Language
 
-[![My Skills](https://skillicons.dev/icons?i=react,angular,nextjs,ts,js,html,css,tailwind&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python&theme=dark)](https://skillicons.dev)
 
-### ⚙️ Backend
+### 🧠 Areas of Interest
 
-[![My Skills](https://skillicons.dev/icons?i=spring,nodejs,java,python,graphql,express&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,jupyter&theme=dark)](https://skillicons.dev)
 
-### 🗄️ Data Ecosystem
+### 📚 Currently Learning
 
-[![My Skills](https://skillicons.dev/icons?i=mongodb,postgres,redis,mysql,elasticsearch&theme=dark)](https://skillicons.dev)
-
-### ☁️ DevOps & Cloud
-
-[![My Skills](https://skillicons.dev/icons?i=aws,docker,kubernetes,git,github,terraform,vercel,linux&theme=dark)](https://skillicons.dev)
+- Scientific Computing & Simulations
+- Machine Learning & AI
+- Advanced Algorithms
+- Physics Computational Methods
 
 </div>
 
@@ -70,14 +61,29 @@ fun_fact: I treat every pull request like a published piece of writing ✍️
 
 ## 🔭 Currently Building & Exploring
 
-| Area                      | Focus                                                             |
-| ------------------------- | ----------------------------------------------------------------- |
-| 🤖 **AI/ML Integration**  | Embedding LLM intelligence into full-stack workflows & APIs       |
-| ⚡ **React Performance**  | Advanced memoization, Suspense, RSC & Partial Prerendering        |
-| ☁️ **Cloud Native**       | AWS + Docker + Kubernetes for elastic, cost-efficient deployments |
-| 🔓 **Open Source**        | Contributing to developer tooling & community libraries           |
-| 📐 **Clean Architecture** | Domain-driven design in microservices & hexagonal architecture    |
-| 🧠 **Agentic Systems**    | Building autonomous AI pipelines with tool-calling & RAG patterns |
+| Area                        | Focus                                                             |
+| --------------------------- | ----------------------------------------------------------------- |
+| 🔬 **Physics Simulations**  | Computational astrophysics & mechanics projects                   |
+| 🤖 **AI/ML Exploration**    | Machine learning applications & training                          |
+| 📐 **Mathematical Problem** | Olympiad-style problems & mathematical proofs                     |
+| 🔓 **Open Source**          | Contributing to learning-focused & community projects             |
+| 📖 **Learning Projects**    | Clean code, documentation, and educational repositories           |
+| ⚛️ **Physics + Code**       | Combining computational methods with physics                      |
+
+</div>
+
+---
+
+<div align="center">
+
+## 🏆 Competitions & Programs
+
+- 🥇 **Mathematik-Olympiade** – Qualified up to **Landesrunde** (State Finals)
+- 🧮 **Jugend trainiert Mathematik (JuMa)** – Candidate
+- 🔬 **Jugend forscht** – Research & project-based work
+- 🤖 **World Robot Olympiad** – Made it up to National Finals
+- 📐 **Pangea Mathematikwettbewerb** – Won Gold in Germany multiple times
+- 👾 **And more!**
 
 </div>
 
@@ -87,28 +93,20 @@ fun_fact: I treat every pull request like a published piece of writing ✍️
 
 ## 📊 GitHub Analytics
 
-<a href="https://github.com/AaqibhafeezKhan">
-  <img src="./assets/committers-badge.svg" alt="committers.top badge" />
-</a>
-
-<br/>
-
-![Followers](https://img.shields.io/github/followers/AaqibhafeezKhan?style=for-the-badge&logo=github&color=A855F7&labelColor=0D1117&label=Followers)
-![Stars](https://img.shields.io/github/stars/AaqibhafeezKhan?style=for-the-badge&logo=github&color=6C63FF&labelColor=0D1117&label=Total%20Stars)
-![Repos](https://img.shields.io/badge/dynamic/json?style=for-the-badge&logo=github&color=00D4FF&labelColor=0D1117&label=Public%20Repos&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FAaqibhafeezKhan)
-![Gists](https://img.shields.io/badge/dynamic/json?style=for-the-badge&logo=github&color=F5C518&labelColor=0D1117&label=Gists&query=%24.public_gists&url=https%3A%2F%2Fapi.github.com%2Fusers%2FAaqibhafeezKhan)
-![Since](https://img.shields.io/badge/Coding%20Since-2017-F5C518?style=for-the-badge&logo=github&labelColor=0D1117)
+![Followers](https://img.shields.io/github/followers/devNull-bootloader?style=for-the-badge&logo=github&color=6A5ACD&labelColor=0D1117&label=Followers)
+![Stars](https://img.shields.io/github/stars/devNull-bootloader?style=for-the-badge&logo=github&color=A855F7&labelColor=0D1117&label=Total%20Stars)
+![Repos](https://img.shields.io/badge/dynamic/json?style=for-the-badge&logo=github&color=34D399&labelColor=0D1117&label=Public%20Repos&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FdevNull-bootloader)
+![Gists](https://img.shields.io/badge/dynamic/json?style=for-the-badge&logo=github&color=F5C518&labelColor=0D1117&label=Gists&query=%24.public_gists&url=https%3A%2F%2Fapi.github.com%2Fusers%2FdevNull-bootloader)
 
 <br/><br/>
 
-<a href="https://github.com/AaqibhafeezKhan">
+<a href="https://github.com/devNull-bootloader">
   <img width="96%" src="./assets/github-streak.svg" alt="GitHub Streak" />
 </a>
 
 </div>
 
 ---
-
 
 <div align="center">
 
@@ -118,7 +116,7 @@ fun_fact: I treat every pull request like a published piece of writing ✍️
 
 <br/>
 
-[![Activity Graph](./assets/activity-graph.svg)](https://github.com/AaqibhafeezKhan)
+[!Activity Graph](https://github.com/devNull-bootloader)
 
 </div>
 
@@ -129,9 +127,9 @@ fun_fact: I treat every pull request like a published piece of writing ✍️
 ## 🐍 Contribution Snake
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AaqibhafeezKhan/AaqibhafeezKhan/output/github-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AaqibhafeezKhan/AaqibhafeezKhan/output/github-snake.svg"/>
-  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/AaqibhafeezKhan/AaqibhafeezKhan/output/github-snake.svg" width="100%"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/devNull-bootloader/devNull-bootloader/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/devNull-bootloader/devNull-bootloader/output/github-contribution-grid-snake.svg"/>
+  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/devNull-bootloader/devNull-bootloader/output/github-contribution-grid-snake.svg" width="100%"/>
 </picture>
 
 </div>
@@ -142,53 +140,18 @@ fun_fact: I treat every pull request like a published piece of writing ✍️
 
 ## 🛠️ Dev Environment
 
-![OS](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows11&logoColor=white)
-![IDE](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![IntelliJ](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
-![Terminal](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
-![Browser](https://img.shields.io/badge/Chrome-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
-
-</div>
-
----
-
-<div align="center">
-
-## 💡 Dev Quote of the Day
-
-[![Readme Quotes](./assets/dev-quote.svg)](https://github.com/piyushsuthar/github-readme-quotes)
-
-</div>
-
----
-
-<div align="center">
-
-## 💼 Why Work With Me?
-
-|                          🎯 Impact-Driven                          |                        🛠️ Full Ownership                        |                  🤝 Collaborative                   |                     ⚡ Fast Delivery                      |
-| :----------------------------------------------------------------: | :-------------------------------------------------------------: | :-------------------------------------------------: | :-------------------------------------------------------: |
-| I ship features that move the needle — not just code that compiles | End-to-end ownership from architecture to production deployment | Clear communication, async-first, timezone-flexible | Efficient, test-covered PRs with zero hand-holding needed |
-
-</div>
-
----
-
-<div align="center">
-
-## 🧠 Development Philosophy
-
-> _"Code is poetry when balanced between elegance and efficiency"_
-
-- 🏛️ **Clean Architecture First** — separation of concerns drives every design decision
-- 🧪 **Test-Driven Development** — tests are not afterthoughts, they're blueprints
-- 📊 **Performance Obsessed** — I profile before I optimize, and optimize deliberately
-- 🔄 **CI/CD Evangelist** — shipping small, shipping often, shipping confidently
-- 🤝 **Client-First Mindset** — your deadline and vision matter as much as clean code
-- 🤖 **AI-Augmented** — integrating AI responsibly to amplify — not replace — good engineering
+![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)
+![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=visualstudiocode&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?logo=render&logoColor=000)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)
+![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?logo=claude&logoColor=fff)
+![Tor](https://img.shields.io/badge/Tor-7D4698?logo=Tor-Browser&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase&logoColor=fff)
+![Matplotlib](https://custom-icon-badges.demolab.com/badge/Matplotlib-71D291?logo=matplotlib&logoColor=fff)
 
 </div>
 
@@ -198,9 +161,8 @@ fun_fact: I treat every pull request like a published piece of writing ✍️
 
 ## 🌐 Featured Links
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-aaqibhafeezkhan--tech--accounts.vercel.app-6C63FF?style=for-the-badge)](https://aaqibhafeezkhan-tech-accounts.vercel.app/)
-[![IMDb Polls](https://img.shields.io/badge/🎬_IMDb_Polls-myimdbpolls.netlify.app-F5C518?style=for-the-badge)](https://myimdbpolls.netlify.app/)
-[![Repositories](https://img.shields.io/badge/📦_All_Repos-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/AaqibhafeezKhan?tab=repositories)
+[![GitHub](https://img.shields.io/badge/🔗_GitHub-github.com/devNull--bootloader-181717?style=for-the-badge&logo=github)](https://github.com/devNull-bootloader)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-devnull--bootloader.github.io-6A5ACD?style=for-the-badge)](https://devnull-bootloader.github.io/)
 
 </div>
 
@@ -208,13 +170,16 @@ fun_fact: I treat every pull request like a published piece of writing ✍️
 
 <div align="center">
 
-### 💬 Let's Build Something Great Together!
+### 💬 Let's Collaborate!
 
-_Available for freelance projects, remote roles, and technical collaborations._
+_Open to student-friendly collaborations, open-source projects, and interesting learning-focused work._
 
-[![Email Me](https://img.shields.io/badge/📬_Email_Me-aaqibhafeezkhan@gmail.com-EA4335?style=for-the-badge)](mailto:aaqibhafeezkhan@gmail.com)
-[![Book a Call](https://img.shields.io/badge/📅_Connect_on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/aaqibhafeez-khan-891b7aa4/)
+[![Email Me](https://img.shields.io/badge/📬_Email_Me-urvishlanje25@gmail.com-EA4335?style=for-the-badge)](mailto:urvishlanje25@gmail.com)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,50:A855F7,100:6C63FF&height=150&section=footer&animation=fadeIn&fontColor=ffffff" width="100%"/>
+<br/>
+
+**Note:** I'm a student, so I mainly collaborate on intermediate-level projects that don't require long daily sessions.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:34D399,50:A855F7,100:6A5ACD&height=150&section=footer&animation=fadeIn&fontColor=ffffff" width="100%"/>
 
 </div>
