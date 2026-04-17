@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A5ACD,50:A855F7,100:34D399&height=240&section=header&text=Urvish%20L.&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Student%20%7C%20Python%20Developer%20%7C%20Math%20%26%20Physics%20Enthusiast&descSize=18&descAlignY=60&animation=fadeIn&stroke=6A5ACD&strokeWidth=1" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:A855F7,100:00D4FF&height=240&section=header&text=Aaqibhafeez%20Khan&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Code%20Alchemist%20%7C%20Problem%20Solver&descSize=18&descAlignY=60&animation=fadeIn&stroke=A855F7&strokeWidth=1" width="100%"/>
 
 <a href="https://github.com/devNull-bootloader">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=6A5ACD&center=true&vCenter=true&width=750&lines=Developer+%F0%9F%92%BB;Student+%F0%9F%8E%93;Python+Coder+%F0%9F%90%8D;Math+Enthusiast+%F0%9F%A7%AE;Open+Source+Contributor+%F0%9F%8C%90" alt="Typing SVG" />
