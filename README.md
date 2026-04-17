@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:A855F7,100:00D4FF&height=240&section=header&text=Urvish%20L.&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Code%20Alchemist%20%7C%20Problem%20Solver&descSize=18&descAlignY=60&animation=fadeIn&stroke=A855F7&strokeWidth=1" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:A855F7,100:00D4FF&height=240&section=header&text=Urvish%20L.&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Developer%20%7C%20Student%20Coder%20%7C%20Problem%20Solver&descSize=18&descAlignY=60&animation=fadeIn&stroke=A855F7&strokeWidth=1" width="100%"/>
 
-<a href="https://github.com/AaqibhafeezKhan">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=750&lines=Building+Scalable+Full+Stack+Solutions+%F0%9F%9A%80;React+%7C+Angular+%7C+Next.js+Enthusiast+%E2%9A%A1;Spring+Boot+%7C+Node.js+Backend+Architect+%F0%9F%8F%97%EF%B8%8F;AI%2FML+Explorer+%7C+Cloud+Native+Learner+%F0%9F%A4%96;Open+to+Freelance+%26+Collaboration+%F0%9F%A4%9D;Code+is+poetry+%E2%80%94+let%27s+write+it+together+%F0%9F%8E%AF" alt="Typing SVG" />
+<a href="https://github.com/devNull-bootloader">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=750&lines=Contributing+To+Open+Source+Projects+%F0%9F%9A%80;Python+%7C+HTML+%7C+Math+Enthusiast+%E2%9A%A1;Orbital+Mechanics+%7C+Computational+Physics+Coder+%F0%9F%8F%97%EF%B8%8F;AI%2FML+Explorer+%F0%9F%A4%96;Open+to+Collaboration+%F0%9F%A4%9D" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -14,11 +14,10 @@
 </div>
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aaqibhafeez-khan-891b7aa4/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AaqibhafeezKhan)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-6C63FF?style=for-the-badge&logo=vercel&logoColor=white)](https://aaqibhafeezkhan-tech-accounts.vercel.app/)
-[![Email](https://img.shields.io/badge/Email-Hire%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aaqibhafeezkhan@gmail.com)
-![Profile Views](https://komarev.com/ghpvc/?username=AaqibhafeezKhan&style=for-the-badge&color=6C63FF&label=PROFILE+VIEWS)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/devNull-bootloader)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-6C63FF?style=for-the-badge&logo=vercel&logoColor=white)](https://devnull-bootloader.github.io/)
+[![Email](https://img.shields.io/badge/Email-Collaborate-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:urvishlanje25@gmail.com)
+![Profile Views](https://komarev.com/ghpvc/?username=devNull-bootloader&style=for-the-badge&color=357EF2&label=PROFILE+VIEWS)
 
 </div>
 
