@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:A855F7,100:00D4FF&height=240&section=header&text=Aaqibhafeez%20Khan&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Code%20Alchemist%20%7C%20Problem%20Solver&descSize=18&descAlignY=60&animation=fadeIn&stroke=A855F7&strokeWidth=1" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:A855F7,100:00D4FF&height=240&section=header&text=Urvish%20L.&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Code%20Alchemist%20%7C%20Problem%20Solver&descSize=18&descAlignY=60&animation=fadeIn&stroke=A855F7&strokeWidth=1" width="100%"/>
 
 <a href="https://github.com/AaqibhafeezKhan">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=750&lines=Building+Scalable+Full+Stack+Solutions+%F0%9F%9A%80;React+%7C+Angular+%7C+Next.js+Enthusiast+%E2%9A%A1;Spring+Boot+%7C+Node.js+Backend+Architect+%F0%9F%8F%97%EF%B8%8F;AI%2FML+Explorer+%7C+Cloud+Native+Learner+%F0%9F%A4%96;Open+to+Freelance+%26+Collaboration+%F0%9F%A4%9D;Code+is+poetry+%E2%80%94+let%27s+write+it+together+%F0%9F%8E%AF" alt="Typing SVG" />
